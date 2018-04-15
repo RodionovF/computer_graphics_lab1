@@ -1,0 +1,21 @@
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\bin\Debug\кг.exe.config
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\bin\Debug\кг.exe
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\bin\Debug\кг.pdb
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\obj\Debug\кг.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\obj\Debug\кг.Form1.resources
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\obj\Debug\кг.Properties.Resources.resources
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\obj\Debug\кг.csproj.GenerateResource.Cache
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\obj\Debug\кг.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\obj\Debug\кг.exe
+C:\Users\Женя\Documents\Visual Studio 2017\Projects\кг\кг\obj\Debug\кг.pdb
+D:\Университет\Graphics\кг\кг\bin\Debug\кг.exe.config
+D:\Университет\Graphics\кг\кг\bin\Debug\кг.exe
+D:\Университет\Graphics\кг\кг\bin\Debug\кг.pdb
+D:\Университет\Graphics\кг\кг\obj\Debug\кг.csprojResolveAssemblyReference.cache
+D:\Университет\Graphics\кг\кг\obj\Debug\кг.Form1.resources
+D:\Университет\Graphics\кг\кг\obj\Debug\кг.Properties.Resources.resources
+D:\Университет\Graphics\кг\кг\obj\Debug\кг.csproj.GenerateResource.Cache
+D:\Университет\Graphics\кг\кг\obj\Debug\кг.csproj.CoreCompileInputs.cache
+D:\Университет\Graphics\кг\кг\obj\Debug\кг.exe
+D:\Университет\Graphics\кг\кг\obj\Debug\кг.pdb
+D:\Университет\Graphics\кг\кг\obj\Debug\кг.Form2.resources
